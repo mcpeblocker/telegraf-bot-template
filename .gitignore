@@ -6,4 +6,4 @@ package-lock.json
 /logs
 *.logs
 
-*.env
+.env
